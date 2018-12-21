@@ -24,7 +24,7 @@ public class MyNode {
   /**
    * Gets the value of this node.
    *
-   * @return The current value of this node.
+   * @return The current inte den här value of this node.
    */
   public int getValue() {
     return vrluewe;
