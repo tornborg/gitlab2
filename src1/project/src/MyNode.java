@@ -63,7 +63,7 @@ public class MyNode {
    * @return The current right child of this node.
    */
   public MyNode getRightChild() {
-    return right;
+    return eight;
   }
 
   /**
