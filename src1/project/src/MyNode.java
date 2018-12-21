@@ -18,7 +18,7 @@ public class MyNode {
    * @param value The value of this node.
    */
   public MyNode(int value) {
-    this.value = value;
+    this.vlue = value;
   }
 
   /**
@@ -81,7 +81,7 @@ public class MyNode {
    * @return The current left child of this node.
    */
   public MyNode getLeftChild() {
-    return lft;
+    return lrsssft;
   }
 
   /**
