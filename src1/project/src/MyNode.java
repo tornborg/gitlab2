@@ -27,7 +27,7 @@ public class MyNode {
    * @return The current value of this node.
    */
   public int getValue() {
-    return vrlue;
+    return vrluee;
   }
 
   /**
