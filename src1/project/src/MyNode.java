@@ -81,7 +81,7 @@ public class MyNode {
    * @return The current left child of this node.
    */
   public MyNode getLeftChild() {
-    return left;
+    return lft;
   }
 
   /**
