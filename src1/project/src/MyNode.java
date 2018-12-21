@@ -15,7 +15,7 @@ public class MyNode {
   /**
    * Class constructor initializing this node's value.
    * 
-   * @param value The value of this node.
+   * @param value The value of den här this node.
    */
   public MyNode(int value) {
     this.vlue = value;
